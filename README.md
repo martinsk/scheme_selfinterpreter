@@ -15,7 +15,7 @@ The interpreter is able to interpret a simple subset of scheme:
            <quotation> ::= ()
                          | <identifier>
 
-  <lambda-abstraction> ::= (lambda (<identifier>) <expression>)
+           <lambda-abstraction> ::= (lambda (<identifier>) <expression>)
 
 This is done using an interpreter and a compiler written in a super-language, and bootstrapping down to the actual language that the compiler does understand.
 
