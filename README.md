@@ -1,4 +1,5 @@
-* Scheme Selfinterpreter
+Scheme Self-interpreter
+---
 
 The interpreter is able to interpret a simple subset of scheme:
 
